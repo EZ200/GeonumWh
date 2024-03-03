@@ -17,7 +17,7 @@
 <h3>Instalación:</h3>
 
 ```
-git clone https://github.com/WhBeatZ/GeonumWh.git
+git clone https://github.com/EZ200/GeonumWh.git
 ```
 
 ```
@@ -31,7 +31,7 @@ bash requirements.sh
 - Instalación rápida:
 
 ```
-git clone https://github.com/WhBeatZ/GeonumWh.git && cd GeonumWh && chmod +x * && bash requirements.sh
+git clone https://github.com/EZ200/GeonumWh.git && cd GeonumWh && chmod +x * && bash requirements.sh
 ```
 
  ## 
